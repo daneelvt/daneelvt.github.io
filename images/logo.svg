@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="120"
+   height="68"
+   viewBox="0 0 31.749999 17.991667"
    version="1.1"
    id="svg2758"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
@@ -17,15 +17,16 @@
   <defs
      id="defs2752" />
   <sodipodi:namedview
+     units="px"
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50623422"
-     inkscape:cx="-465.16435"
-     inkscape:cy="-66.667842"
+     inkscape:zoom="2.2485428"
+     inkscape:cx="20.992595"
+     inkscape:cy="79.455877"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -43,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,17 +52,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-size:14.1111px;line-height:1.25;font-family:Garamond;-inkscape-font-specification:Garamond;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583;fill:#444444;fill-opacity:1;"
-       x="32.649273"
-       y="91.925148"
-       id="text3323"><tspan
-         sodipodi:role="line"
-         id="tspan3321"
-         x="32.649273"
-         y="91.925148"
-         style="font-size:14.1111px;stroke-width:0.264583;fill:#444444;fill-opacity:1;">Tasty Food Channel</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:25.4px;line-height:1.25;font-family:Garamond;-inkscape-font-specification:Garamond;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -74,61 +64,76 @@
          y="151.83498"
          style="stroke-width:0.264583" /></text>
     <g
-       id="g3348"
-       transform="matrix(0.43401092,0,0,0.43401092,44.268232,12.873133)">
-      <title
-         id="title3336">Layer 1</title>
+       transform="matrix(0.24452799,0,0,0.24452799,-5.491287,-6.2802315)"
+       id="g870">
+      <text
+         id="text3323"
+         y="91.925148"
+         x="32.649273"
+         style="font-size:14.1111px;line-height:1.25;font-family:Garamond;-inkscape-font-specification:Garamond;letter-spacing:0px;word-spacing:0px;fill:#444444;fill-opacity:1;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:14.1111px;fill:#444444;fill-opacity:1;stroke-width:0.264583"
+           y="91.925148"
+           x="32.649273"
+           id="tspan3321"
+           sodipodi:role="line">Tasty Food Channel</tspan></text>
       <g
-         transform="matrix(0.29202,0,0,0.303897,-63.9203,-348.831)"
-         id="g3208">
-        <path
-           style="stroke:#444444;stroke-opacity:1"
-           fill="#ffffff"
-           fill-rule="evenodd"
-           stroke="#cccccc"
-           stroke-width="10"
-           stroke-miterlimit="4"
-           d="m 647.95465,1421.2169 c 52.23432,-44.7369 101.84021,-80.4629 152.67859,-115.8928 23.54297,-5.0028 30.08972,10.7401 22.14282,16.7858 -56.58887,31.6255 -103.37475,73.0537 -151.78576,112.857 l 0.17858,0.1786 z"
-           id="path2396" />
-        <path
-           style="stroke:#444444;stroke-opacity:1"
-           fill="#ffffff"
-           fill-rule="nonzero"
-           stroke="#cccccc"
-           stroke-width="7.87441"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           marker-start="none"
-           marker-mid="none"
-           marker-end="none"
-           stroke-miterlimit="4"
-           stroke-dashoffset="0"
-           id="path2402"
-           d="m 705.40155,1492.4664 a 204.41196,102.98379 0 1 1 -408.82391,0 204.41196,102.98379 0 1 1 408.82391,0 z" />
-        <path
-           style="stroke:#444444;stroke-opacity:1"
-           fill="#ffffff"
-           fill-rule="nonzero"
-           stroke="#cccccc"
-           stroke-width="11.0309"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           marker-start="none"
-           marker-mid="none"
-           marker-end="none"
-           stroke-miterlimit="4"
-           stroke-dashoffset="0"
-           d="m 654.30365,1535.3239 a 153.31335,69.969949 0 1 1 -306.62671,0 153.31335,69.969949 0 1 1 306.62671,0 z"
-           id="path2404" />
-        <path
-           style="stroke:#444444;stroke-opacity:1"
-           fill="#ffffff"
-           fill-rule="evenodd"
-           stroke="#cccccc"
-           stroke-width="10"
-           stroke-miterlimit="4"
-           d="m 682.06177,1540.0896 c -71.05316,52.2307 -173.01959,60.8235 -246.83185,48.8518 -46.42719,-7.53 -86.80243,-24.7504 -116.02527,-48.8518 33.99115,50.6257 66.10492,62.6218 105.58222,73.395 78.44451,21.4072 203.56451,16.0398 257.2749,-73.395 z"
-           id="path2400" />
+         transform="matrix(0.43401092,0,0,0.43401092,44.268232,12.873133)"
+         id="g3348">
+        <title
+           id="title3336">Layer 1</title>
+        <g
+           id="g3208"
+           transform="matrix(0.29202,0,0,0.303897,-63.9203,-348.831)">
+          <path
+             id="path2396"
+             d="m 647.95465,1421.2169 c 52.23432,-44.7369 101.84021,-80.4629 152.67859,-115.8928 23.54297,-5.0028 30.08972,10.7401 22.14282,16.7858 -56.58887,31.6255 -103.37475,73.0537 -151.78576,112.857 l 0.17858,0.1786 z"
+             stroke-miterlimit="4"
+             stroke-width="10"
+             stroke="#cccccc"
+             fill-rule="evenodd"
+             fill="#ffffff"
+             style="stroke:#444444;stroke-opacity:1" />
+          <path
+             d="m 705.40155,1492.4664 a 204.41196,102.98379 0 1 1 -408.82391,0 204.41196,102.98379 0 1 1 408.82391,0 z"
+             id="path2402"
+             stroke-dashoffset="0"
+             stroke-miterlimit="4"
+             marker-end="none"
+             marker-mid="none"
+             marker-start="none"
+             stroke-linejoin="round"
+             stroke-linecap="round"
+             stroke-width="7.87441"
+             stroke="#cccccc"
+             fill-rule="nonzero"
+             fill="#ffffff"
+             style="stroke:#444444;stroke-opacity:1" />
+          <path
+             id="path2404"
+             d="m 654.30365,1535.3239 a 153.31335,69.969977 0 1 1 -306.62671,0 153.31335,69.969977 0 1 1 306.62671,0 z"
+             stroke-dashoffset="0"
+             stroke-miterlimit="4"
+             marker-end="none"
+             marker-mid="none"
+             marker-start="none"
+             stroke-linejoin="round"
+             stroke-linecap="round"
+             stroke-width="11.0309"
+             stroke="#cccccc"
+             fill-rule="nonzero"
+             fill="#ffffff"
+             style="stroke:#444444;stroke-opacity:1" />
+          <path
+             id="path2400"
+             d="m 682.06177,1540.0896 c -71.05316,52.2307 -173.01959,60.8235 -246.83185,48.8518 -46.42719,-7.53 -86.80243,-24.7504 -116.02527,-48.8518 33.99115,50.6257 66.10492,62.6218 105.58222,73.395 78.44451,21.4072 203.56451,16.0398 257.2749,-73.395 z"
+             stroke-miterlimit="4"
+             stroke-width="10"
+             stroke="#cccccc"
+             fill-rule="evenodd"
+             fill="#ffffff"
+             style="stroke:#444444;stroke-opacity:1" />
+        </g>
       </g>
     </g>
   </g>
