@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Tasty Food Channel
+title: Tasty Food Channel2
 url: "https://tastyfoodchannel.com/"
 baseurl:
 google_analytics_key:
@@ -16,7 +16,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template2
+  name: Treat Template
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
